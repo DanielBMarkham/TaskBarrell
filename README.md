@@ -1,3 +1,4 @@
 # TaskBarrell
 Demo project for incremental strong typing.
-F#
+Proposed language: F#
+
