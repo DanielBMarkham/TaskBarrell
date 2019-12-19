@@ -1,2 +1,3 @@
 # TaskBarrell
-Demo project for incremental strong typing
+Demo project for incremental strong typing.
+F#
