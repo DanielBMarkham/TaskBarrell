@@ -6,6 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Scratch.fs" />
+    <Compile Include="TaskBarrellTests.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
