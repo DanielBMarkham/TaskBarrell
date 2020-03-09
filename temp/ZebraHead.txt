@@ -1,4 +1,4 @@
 Reconcile Account	did something
 Reconcile Account	did some other things
 Balance Account	made some decisions
-Balance Account	made some other decisions 2.5 12
+Balance Account	made some other decisions	2.5	12
